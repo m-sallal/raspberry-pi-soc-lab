@@ -66,6 +66,16 @@ Example log: Failed password for maya from [internal IP] port [port] ssh2
 
 ---
 
+## 📸 Screenshots
+
+### Failed Login Attempts (Simulated Brute Force Attack)
+![Failed Logins](screenshots/failed-logins.png)
+
+### fail2ban Automatically Blocking Attacker IP
+![fail2ban](screenshots/fail2ban-status.png)
+
+---
+
 ## Key Takeaways
 - How authentication logs are generated and analyzed
 - How to detect brute force attacks based on patterns
