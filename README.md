@@ -1,5 +1,5 @@
 # Raspberry Pi SOC Lab
-## 🏗️ Architecture
+## Architecture
 ![Architecture](architecture.png)
 ## Overview
 I built this project to get hands-on experience with how a Security Operations Center (SOC) actually works.
