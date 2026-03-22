@@ -2,9 +2,9 @@
 ## Architecture
 ![Architecture](architecture.png)
 ## Overview
-I built this project to get hands-on experience with how a Security Operations Center (SOC) actually works.
+I built this project to get hands on experience with how a SOC actually works.
 
-Instead of just learning concepts, I wanted to simulate a real-world scenario where I can detect and respond to SSH brute force attacks on a Linux system. This lab runs on a Raspberry Pi 5 and focuses on log analysis, attack detection, and automated defense.
+Instead of just learning concepts, I wanted to simulate a real world scenario where I can detect and respond to SSH brute force attacks on a Linux system. This lab runs on a Raspberry Pi 5 and focuses on log analysis, attack detection, and automated defense.
 
 ---
 
